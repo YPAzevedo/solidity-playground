@@ -1,4 +1,8 @@
-#node modules
+# node modules
 node_modules
-#yarn
+
+# yarn
 yarn-error.log
+
+# Solidity artifacts
+artifacts
